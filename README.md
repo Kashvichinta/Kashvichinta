@@ -1,4 +1,8 @@
-# 👋 Hello, I'm Kashvi Chinta!
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Hello,+I'm+Kashvi+Chinta!;Passionate+Developer+%7C+Researcher+%7C+Learner" alt="Typing Animation" />
+</h1>
+
+---
 
 🎓 B.Tech in Information Technology | 3rd Year  
 🏫 BVRIT Hyderabad College of Engineering for Women  
@@ -8,9 +12,9 @@
 
 ## 🌱 Currently Exploring
 
-- Data Structures & Algorithms (DSA)
-- Deep Learning & Computational Biology
-- Internet of Things (IoT)
+- Data Structures & Algorithms (DSA)  
+- Deep Learning & Computational Biology  
+- Internet of Things (IoT)  
 - Vibe Coding for EPICS Research
 
 ---
@@ -48,7 +52,7 @@
 - 🎓 AnitaB.org Scholar – Grace Hopper Celebration India 2024  
 - 👩‍💻 Contributor @ GirlScript Summer of Code (Top 356 out of 32,000+)  
 - 📜 Postman API Student Expert Certified  
-- 🔬 Researcher – Polymer Electrolytes
+- 🔬 Researcher – Polymer Electrolytes  
 - 🌍 EPICS Program – Purdue University Collaboration  
 
 ---
@@ -61,4 +65,5 @@
 ---
 
 > “Strive for progress, not perfection. Every step counts.”
+
 
