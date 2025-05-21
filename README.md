@@ -26,8 +26,8 @@
 **Machine Learning & Data Science**:  
 🧠 Pandas, NumPy, Keras, Matplotlib, Data Visualization
 
-**DevOps & Cloud**:  
-☁️ AWS, Google Cloud Platform, Docker, Jenkins, Kubernetes, Ansible
+**Cloud**:  
+☁️ AWS, Google Cloud Platform 
 
 **Tools & Platforms**:  
 🛠️ Git, GitHub, Visual Studio Code, Jupyter Notebook, Eclipse, Excel, Tableau
