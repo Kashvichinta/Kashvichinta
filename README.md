@@ -4,7 +4,7 @@
 
 ---
 
-🎓 B.Tech in Information Technology | Final year  
+🎓 B.Tech in Information Technology | Final Year  
 🏫 BVRIT Hyderabad College of Engineering for Women  
 💡 Passionate about software development, research, and impactful solutions
 
