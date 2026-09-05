@@ -1,18 +1,18 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hi,+I'm+Kashvi+Chinta;Aspiring+Researcher+%7C+Full-Stack+Developer" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hi,+I'm+Kashvi+Chinta;IT+Student+%7C+Full-Stack+Developer" alt="Typing Animation" />
 </h1>
 
 <div align="center">
   <b>B.Tech Information Technology</b> · BVRIT Hyderabad<br>
-  Passionate about Full-Stack Development, Machine Learning & building meaningful solutions
+  Passionate about Full-Stack Development, Machine Learning & building practical solutions
 </div>
 
 ---
 
 ### About Me
-- Information Technology graduate with hands-on experience in full-stack web development and applied machine learning
-- International research exposure through the **EPICS Design Thinking Program at Purdue University, USA**
-- Strong interest in intelligent systems, software architecture, and research-driven problem solving
+- IT student with hands-on experience in full-stack web development and machine learning
+- Worked on real-world projects using Python, Flask, and MySQL
+- Gained international exposure through the **EPICS Design Thinking Program at Purdue University, USA**
 - Looking to pursue a **Master’s in Information Technology / Computer Science**
 
 ---
