@@ -1,69 +1,62 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Hello,+I'm+Kashvi+Chinta!;Passionate+Developer+%7C+Researcher+%7C+Learner" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hi,+I'm+Kashvi+Chinta;IT+Undergraduate+%7C+Aspiring+Researcher" alt="Typing Animation" />
 </h1>
 
----
-
-🎓 B.Tech in Information Technology | Final Year  
-🏫 BVRIT Hyderabad College of Engineering for Women  
-💡 Passionate about software development, research, and impactful solutions
-
----
-
-## 🌱 Currently Exploring
-
-- Data Structures & Algorithms (DSA)  
-- Deep Learning & Computational Biology  
-- Internet of Things (IoT)  
-- Vibe Coding for EPICS Research
+<div align="center">
+  <b>B.Tech Information Technology</b> (Final Year) · BVRIT Hyderabad<br>
+  Passionate about Full-Stack Development, Machine Learning & building meaningful solutions
+</div>
 
 ---
 
-## 🛠️ Tech Stack
-
-**Languages**:  
-💻 Python, C, Java (basic), HTML, CSS, JavaScript, R, MATLAB
-
-**Web Development**:  
-🌐 React, Node.js, Bootstrap, MySQL
-
-**Machine Learning & Data Science**:  
-🧠 Pandas, NumPy, Keras, Matplotlib, Data Visualization
-
-**Cloud**:  
-☁️ AWS, Google Cloud Platform 
-
-**Tools & Platforms**:  
-🛠️ Git, GitHub, Visual Studio Code, Jupyter Notebook, Eclipse, Excel, Tableau
+### About Me
+- Final-year IT student with hands-on experience in full-stack web development and applied machine learning
+- International research exposure through the **EPICS Design Thinking Program at Purdue University, USA**
+- Strong interest in intelligent systems, software architecture, and research-driven problem solving
+- Looking to pursue a **Master’s in Information Technology / Computer Science**
 
 ---
 
-## 💼 Projects I've Worked On
+### Tech Stack
 
-- 🌿 Automatic Plant Watering System  
-- 📄 ResMake: LaTeX Resume Maker  
-- 🎮 Mummy Madness Game  
-- 🛰️ Urban Fleet Manager  
+**Languages**  
+`Python` `JavaScript` `SQL` 
 
----
+**Web & Backend**  
+`Flask` `HTML` `CSS` `REST APIs` `MySQL`
 
-## 🏆 Highlights & Achievements
+**Machine Learning**  
+`TensorFlow` `Keras` `Scikit-learn` `Random Forest` `Gradient Boosting`
 
-- 🎓 AnitaB.org Scholar – Grace Hopper Celebration India 2024  
-- 👩‍💻 Contributor @ GirlScript Summer of Code (Top 356 out of 32,000+)  
-- 📜 Postman API Student Expert Certified  
-- 🔬 Researcher – Polymer Electrolytes  
-- 🌍 EPICS Program – Purdue University Collaboration  
+**Tools & Platforms**  
+`Git` `GitHub` `VS Code` `Jupyter` `Postman` `Android Studio` `AWS` `GCP`
 
 ---
 
-## 🤝 Let's Connect
+### Featured Projects
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-KashviChinta-blue?style=flat&logo=linkedin)](https://linkedin.com/in/kashvichinta)  
-📬 Email: ckashvi504@gmail.com
+| Project | Description | Tech |
+|---------|-------------|------|
+| **E-Commerce Web Application** | Full-stack Flask application with 35+ features, 30+ REST APIs, Razorpay integration and role-based access control | Python, Flask, MySQL |
+| **Traffix AI** | Intelligent traffic signal optimization system using ML models with real-time prediction and web dashboard | Python, Random Forest, Gradient Boosting, Flask |
+| **Triplex-Forming Potential Prediction** | Hybrid CNN-LSTM model to predict triplex-forming potential in long non-coding RNAs | Python, TensorFlow, Keras |
+| **ResMake** | Android application for professional resume generation with form-based input and LaTeX + Overleaf integration | Kotlin, Android Studio |
+
+---
+
+### Achievements
+- Selected for **EPICS Design Thinking Program**, Purdue University, USA (2025)
+- **AnitaB.org Scholar** – Grace Hopper Celebration India 2024
+- Ranked in **Top 500** (out of 32,000+) in GirlScript Summer of Code 2024
+- Patent Filed – Silver Ion Conducting Solid Biopolymer Electrolyte
+- Postman API Fundamentals Student Expert
+
+---
+
+### Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kashvi_Chinta-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/kashvi-chinta-473574259/)  
+[![Email](https://img.shields.io/badge/Email-ckashvi504%40gmail.com-D14836?style=flat&logo=gmail)](mailto:ckashvi504@gmail.com)
 
 ---
 
 > “Strive for progress, not perfection. Every step counts.”
-
-
