@@ -14,7 +14,7 @@
 - Hands-on experience in full-stack web development and machine learning
 - Worked on real-world projects using Python, Flask, and MySQL
 - Gained international exposure through the **EPICS Design Thinking Program at Purdue University, USA**
-- Looking to pursue a **Master’s in Information Technology / Computer Science**
+- Looking to pursue a **Master’s in Information Technology**
 
 ---
 
