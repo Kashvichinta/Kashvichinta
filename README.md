@@ -4,13 +4,14 @@
 
 <div align="center">
   <b>B.Tech Information Technology</b> · BVRIT Hyderabad<br>
-  Passionate about Full-Stack Development, Machine Learning & building practical solutions
+  Passionate about the IT field and building practical solutions
 </div>
 
 ---
 
 ### About Me
-- IT student with hands-on experience in full-stack web development and machine learning
+- Passionate about the IT field, with a strong foundation from my B.Tech in Information Technology
+- Hands-on experience in full-stack web development and machine learning
 - Worked on real-world projects using Python, Flask, and MySQL
 - Gained international exposure through the **EPICS Design Thinking Program at Purdue University, USA**
 - Looking to pursue a **Master’s in Information Technology / Computer Science**
